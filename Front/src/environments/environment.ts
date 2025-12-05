@@ -4,5 +4,5 @@
 
 export const environment = {
   production: true,
-  url_api: "https://ricardohbllo-control-escolar-desit-api.onrender.com"
+  url_api: "https://movilesproy.onrender.com"
 };
